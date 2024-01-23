@@ -1,5 +1,4 @@
-# lld_trans
-A Translation Of Linux Device Drivers 
+# A Translation Of Linux Device Drivers 
 
 
 
