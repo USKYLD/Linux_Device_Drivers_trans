@@ -5,7 +5,6 @@
 
 Linux Device Drivers (Jonathan Corbet, Alessandro)
 
-请将pdf文件下载下来查看,目前无法在线查看
+All translations have been completed on February 7, 2024
 
-
-本翻译仅供个人学习使用,禁止转载到CSDN
+Powered by github-gopilot.
